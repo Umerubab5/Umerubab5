@@ -6,6 +6,7 @@ function App() {
     <>
     <h1>Age Counter</h1>
     <Calculator/>
+    <h1>Pattern Validator</h1>
     <Patternvalidator/>
     </>
     
